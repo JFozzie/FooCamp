@@ -1,4 +1,2 @@
-Class Exercises# FooCamp
-# FooCamp
-# FooCamp
+Class Exercises
 # FooCamp
